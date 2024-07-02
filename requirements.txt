@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+seaborn
+string
+re
+scikit-learn
+streamlit
+nltk
+random
